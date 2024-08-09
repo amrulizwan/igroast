@@ -11,6 +11,8 @@ Roasting Instagram menggunakan API Gemini dari Google
 3. Install the dependencies: `npm install`
 4. Buat file .env
 5. Edit file .env GEMINI_API_KEY=<api_key>
+6. Edit file env INSTAGRAM_SESSION_ID=<session_id_instagram>
+Gunakan Cookie Editor Extension
 
 ## Usage
 
